@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Shopping List</h1>
+
+<h2> Snacks </h2>
+<ul>
+	<li> Cookies <br>
+    <a href="https://www.target.com/p/chips-ahoy-original-chocolate-chip-cookies-13oz/-/A-12959729?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108139139&CPNG=PLA_Snacks%2BCandy%2BShopping_Local%7CSnacks%2BCandy_Ecomm_Food_Bev&adgroup=SC_Snacks%2BCandy&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-812005806870&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEoJvL7fBV2_lhEPSe8a3Mtyi9iu011mfU3bRC3VB2ZmVnfIq6FeHXRoCHWwQAvD_BwE&gclsrc=aw.ds"> 
+    <img src="https://m.media-amazon.com/images/I/71EjciqkYcL.jpg" alt=" Chips Ahoy Cookies" width= "100" length= "100"></a>
+    
+    	
+    <li> Chips <br>
+    <a href="https://www.target.com/p/doritos-flamas-chips-9-75oz/-/A-47085640?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108139139&CPNG=PLA_Snacks%2BCandy%2BShopping_Local%7CSnacks%2BCandy_Ecomm_Food_Bev&adgroup=SC_Snacks%2BCandy&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-566872943420&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpUzpEGMjR09I6p_EBGsemmJvpemC-xHdOk_B1waVrlKnvKb71QBfxoCGBkQAvD_BwE&gclsrc=aw.ds">
+<img src="https://target.scene7.com/is/image/Target/GUEST_b04dbc05-73dd-46f8-a5c5-d864637b80b6?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt="Doritos Flamas" width= "100" length= "100"></a>
+    
+    <li> Goldfish <br>
+    <a href="https://www.target.com/p/goldfish-cheddar-cheese-crackers-27-3oz/-/A-88951125?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108139124&CPNG=PLA_Snacks%2BCandy%7CSnacks%2BCandy_Ecomm_Food_Bev&adgroup=SC_Snacks%2BCandy&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-702308131872&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEgI-OttGXvu-S2xgOF-ZZAiI3WhcN_GjoyVyjxWs9tcvynAE9e6KmBoCnDcQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_02b6aa7a-7633-489c-8724-407f3bd8b52d?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" Cheddar Goldfish" width= "100" length= "100"></a>
+    
+    <li> Ice Cream <br>
+    <a href="https://www.target.com/p/mint-chocolate-chip-ice-cream-48oz-breyers/-/A-13291466?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264730&CPNG=PLA_Dairy%2BFrozen%2BShopping_Local%7CDairy%2BFrozen_Ecomm_Food_Bev&adgroup=SC_Dairy%2BFrozen&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-2142342215007&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEnNDNIPQGvgbhFr9973iMc4DS6oFkKxkheHETEzkQi_1-J8Aiz93YBoCgZkQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_ac829dd8-4d51-48e0-9451-08172f204bb3?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" Breyers mint chocolate chip ice cream" width= "100" length= "100"></a>
+    
+    <li> Candy <br>
+    <a href="https://www.amazon.com/Smarties-Candy-Rolls-14-oz/dp/B0039OTWSU/ref=asc_df_B0039OTWSU/?tag=hyprod-20&linkCode=df0&hvadid=343920882840&hvpos=&hvnetw=g&hvrand=14505240609591945958&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-752187589175&psc=1&mcid=5178b2d75a483dd59d81410377af6dfd&tag=&ref=&adgrpid=69869197435&hvpone=&hvptwo=&hvadid=343920882840&hvpos=&hvnetw=g&hvrand=14505240609591945958&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-752187589175">
+   
+    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTKs6Y_yQyt7QxMBmvG2Wiq-_RJ6Szvbrg8LAd5cca-NXsVcxEOsT-VKbVGmkmoDlwFRJ_YUHB5&usqp=CAE" alt="Bag of smarties" width= "100" length= "100"></a>
+</ul>
+<h2> Drinks </h2>
+<ul>
+	<li> Green Tea <br>
+    <a href="https://www.walmart.com/ip/Turkey-Hill-Diet-Green-Tea-1-gal/22340791?wmlspartner=wlpa&selectedSellerId=0&wl13=5131&adid=2222222227722340791_117755028669_12420145346&wmlspartner=wmtlabs&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-306310554666&wl5=9007218&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=22340791&wl13=5131&veh=sem_LIA&gclsrc=aw.ds&&adid=2222222223722340791_117755028669_12420145346&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-306310554666&wl5=9007218&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=22340791&veh=sem&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEsYD2rv2rFgq14QwPb4SUU5q04h1-WOeC5ekICqcqieZJanN5XUYiBoCxpMQAvD_BwE">
+    <img src="https://i5.walmartimages.com/seo/Turkey-Hill-Diet-Green-Tea-1-gal_d5f6f583-6a1a-4c72-93c5-6d9806ff07b8.29ae68dfb27832e4a152ded1fd2f6846.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" alt="Turkey hill diet green tea" width= "100" length= "100"></a>
+    
+    <li> Water <br>
+    <a href="https://www.target.com/p/pure-life-purified-water-28pk-16-9-fl-oz-bottles/-/A-50251590?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264727&CPNG=PLA_Beverages%2BShopping_Local%7CBeverages_Ecomm_Food_Bev&adgroup=SC_Beverages&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-836736657314&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEr_ybMhGfNdkWN1FWkdJIYCGKW7Uwwc90Bq3sSNUCTtcf1UDOT3qLhoC5EkQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_b4b0f563-91db-400f-9772-443b664b9a0c?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" Pack of pure life water bottles" width= "100" length= "100"></a>
+    
+    <li> Coffee <br>
+    <a href="https://www.target.com/p/starbucks-unsweetened-medium-roast-iced-coffee-48-fl-oz/-/A-15605615?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264766&CPNG=PLA_Dairy%2BFrozen_Priority%2BShopping_Local%7CDairy%2BFrozen_Ecomm_Food_Bev&adgroup=Dairy%2BFrozen_Priority+TCINs&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-1681397858551&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvxzDcd60zqE5zfRO9yDdKFaYwnJKeHl7st-QrsMY8W9JhKCNAocqhoCosoQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_9dfc9ec7-c7ca-48f2-973f-f88f8e8b628d?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" Starbucks medium roast coffee" width= "100" length= "100"></a>
+    
+    <li> Soda <br>
+    <a href="https://www.target.com/p/diet-coke-20-fl-oz-bottle/-/A-12959161?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264727&CPNG=PLA_Beverages%2BShopping_Local%7CBeverages_Ecomm_Food_Bev&adgroup=SC_Beverages&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-812785438214&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEpVO6e48IFH1QjjBrxUfyWHWfoDH5E5bQVTuSiwd0l_9CKMNK014RRoCgZMQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_df0ed645-55ba-440c-a765-e702bc9ebb01?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt="Bottle of diet coke" width= "100" length= "100"></a>
+    
+<h2>School Supplies </h2>
+
+	<li> Mechanical pencils <br>
+    <a href="https://www.walmart.com/ip/BIC-Xtra-Sparkle-No-2-Mechanical-Pencils-with-Erasers-Medium-Point-0-7mm-24-Pencils/14977430?wmlspartner=wlpa&selectedSellerId=101317512&&adid=2222222222714977430_101317512_142029117597_18503877779&wl0=&wl1=g&wl2=c&wl3=625814564874&wl4=pla-1810712188984&wl5=9007218&wl6=&wl7=&wl8=&wl9=pla&wl10=737344724&wl11=online&wl12=14977430_101317512&veh=sem&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEhmJ2YL08dgWn2tueDyUGBxHYo2fE0t5v7sKydz2xVpe6XrewQR7DBoCEI4QAvD_BwE&gclsrc=aw.ds">
+    <img src= "https://i5.walmartimages.com/seo/BIC-Xtra-Sparkle-No-2-Mechanical-Pencils-with-Erasers-Medium-Point-0-7mm-24-Pencils_2e2cb74f-8ada-478f-934e-9ee7d75fb278.b007f4acfc2ea7b65fc0e7c701e62e28.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" alt= "24 pack of rainbow mechanical pencils" width= "100" length= "100"></a>
+    
+    <li> Flashcards <br>
+    <a href="https://www.amazon.com/Oxford-Index-Shrink-Wrapped-40178/dp/B09GX5PBV5/ref=asc_df_B09GX5PBV5/?tag=hyprod-20&linkCode=df0&hvadid=563671129177&hvpos=&hvnetw=g&hvrand=13262610239839322201&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-1601376574539&psc=1">
+    <img src="https://m.media-amazon.com/images/I/71OTBjV8UnL._AC_SL1500_.jpg" alt="500 pack of white ruled index cards" width= "100" length= "100"></a>
+    
+    <li> Folder <br>
+    <a href="https://www.amazon.com/Five-Star-Folder-Blue-72095/dp/B003O3GSI8/ref=asc_df_B003O3GSI8/?tag=hyprod-20&linkCode=df0&hvadid=198072808446&hvpos=&hvnetw=g&hvrand=2954642315984498871&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-348284020026&th=1">
+    <img src="https://m.media-amazon.com/images/I/71DmwMuqAsL._AC_SL1280_.jpg" alt="blue five star folder" width= "100" length= "100"></a>
+    
+    <li> Copybooks <br>
+    <a href="https://www.amazon.com/Emraw-Black-Marble-Composition-Sheets/dp/B07VLJH21S/ref=asc_df_B07VLJH21S/?tag=hyprod-20&linkCode=df0&hvadid=366338376406&hvpos=&hvnetw=g&hvrand=14575527816060768257&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-816768604318&psc=1&tag=&ref=&adgrpid=77663279273&hvpone=&hvptwo=&hvadid=366338376406&hvpos=&hvnetw=g&hvrand=14575527816060768257&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-816768604318">
+    <img src="https://i5.walmartimages.com/seo/Emraw-Black-White-Marble-Style-Cover-Composition-Book-with-100-Sheets-of-Wide-Ruled-White-Paper-4-Pack_4c657df3-72b3-469d-9d91-4c6eea5b84c1.7d4e199d63ecb01500a1d99b296e7d74.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF" alt="4 black and white copybooks" width= "100" length= "100"></a>
+    
+    <li> Binder <br>
+    <a href="https://www.amazon.com/Avery-Economy-Binder-Round-Holds/dp/B0017P1FYM/ref=asc_df_B0017P1FYM/?tag=hyprod-20&linkCode=df0&hvadid=167147620253&hvpos=&hvnetw=g&hvrand=14279338683078683955&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-272770084946&psc=1">
+    <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbI4ALtCpjTDgsnLpDNjInLcKhsaqerqnks4KXIleHR5qCsqU9LebtWfa-65ZgdZuD6ilql43-Lg83Ox7TXoFr4xreMfFt6zsF5nJTdNMIw8Q&usqp=CAc" alt=" black binder" width= "100" length= "100"></a>
+</ul>
+<h2> Hygiene </h2>
+<ul>
+	<li> Shampoo <br>
+    <a href="https://www.amazon.com/Dove-Nutritive-Solutions-Moisture-25-4-Ounce/dp/B000RYYI7K">
+    <img src="https://m.media-amazon.com/images/I/71enDA8w01L._SL1500_.jpg" alt="bottle of dove hair shampoo" width= "100" length= "100"></a>
+    
+    <li> Conditioner <br>
+    <a href="https://www.amazon.com/Dove-Nutritive-Solutions-Conditioner-Moisture/dp/B000RK9XOM">
+    <img src="https://m.media-amazon.com/images/I/61pSskPD3BL.jpg" alt="bottle of dove conditioner" width= "100" length= "100"></a>
+    
+    <li> Toothpaste <br>
+    <a href="https://www.cvs.com/shop/crest-pro-health-advanced-fluoride-toothpaste-for-anticavity-antigingivitis-and-sensitive-teeth-deep-clean-mint-prodid-2210149?skuId=234714&cgaa=QWxsb3dHb29nbGVUb0FjY2Vzc0NWU1BhZ2Vz&cid=ps_oralc_pla&gclid=CjwKCAjw15eqBhBZEiwAbDomEsZo8i1ih5VmNZLkkX3OhkYg7_7ZyZvGhMh1AmzT2EkPc_B0C90CcRoC5BIQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://www.cvs.com/bizcontent/merchandising/productimages/high_res/37000976608.jpg?im=Resize=(1000,1000)" alt="box of crest toothpaste" width= "100" length= "100"></a>
+    
+    <li> Deodorant <br>
+    <a href="https://www.amazon.com/Dove-Antiperspirant-Deodorant-Powder-Ounce/dp/B001ET78K6/ref=asc_df_B001ET78K6/?tag=hyprod-20&linkCode=df0&hvadid=309804809897&hvpos=&hvnetw=g&hvrand=4522148296961518151&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007218&hvtargid=pla-569689210471&psc=1">
+    <img src="https://m.media-amazon.com/images/I/61UkzYQVX6L.jpg" alt="dove deodorant container" width= "100" length= "100"></a>
+    
+    <li> Body Wash <br>
+    <a href="https://www.walmart.com/ip/Dove-Rejuvenating-Liquid-Body-Wash-with-Pump-Pomegranate-Hibiscus-30-6-oz/181703794?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227181703794_146799877919_18606165303&wl0=&wl1=g&wl2=c&wl3=652650638574&wl4=pla-943059799428&wl5=9007218&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=181703794&veh=sem&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEitUsRRmtSaw3sCOspYEEzaHe7BOP0xONRadHQT57DOUF4ONd4pX2BoCZsoQAvD_BwE">
+    <img src="https://m.media-amazon.com/images/I/71EwVfxWa3L.jpg" alt="bottle of dove body wash" width= "100" length= "100"></a>
+</ul>
+<h2> Fruits and Vegetables </h2>
+<ul>
+	<li> Grapes <br>
+    <a href="https://www.acmemarkets.com/shop/product-details.184100014.html?productId=184100014&psrc=g&CMPID=ps_acm_acmd_ecom_goo_20200329_71700000081452342_58700007749303108_92700070342182662&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEu1Kc9dFpe_ezvpAb2zdR9j8GWqCFU40omNFJh1px4ucAs7DqDJk1xoCVLsQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://images.albertsons-media.com/is/image/ABS/184100014-ECOM?$ng-ecom-pdp-tn$&defaultImage=Not_Available" alt="bag of green grapes" width= "100" length= "100"></a>
+    
+    <li> Apples <br>
+    <a href="https://www.target.com/p/organic-gala-apples-2lb-bag-good-38-gather-8482/-/A-85787732?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264775&CPNG=PLA_Produce%2BFloral_Priority%2BShopping_LocalProduce%2BFloral_Ecomm_Food_Bev&adgroup=Produce%2BFloral_Good%26Gather&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-976785160740&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEvdPpL7CCd7aUvmtMtv1gZuOB091_xmKciZNZFSr5sHSmGEIif5vYxoCs4wQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_c9ac25cc-247c-452d-ada7-11f114f0547e?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" bag of red apples" width= "100" length= "100"></a>
+    
+    <li> Broccoli <br>
+    <a href="https://www.target.com/p/birds-eye-steamfresh-frozen-broccoli-florets-10-8oz/-/A-13187871?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264730&CPNG=PLA_Dairy%2BFrozen%2BShopping_Local%7CDairy%2BFrozen_Ecomm_Food_Bev&adgroup=SC_Dairy%2BFrozen&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-510527969963&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEp0kXSZkS7FV8_wRv9Hvf2CRyiOyl_lrDi-7yVFhqVSTczHMOpbraRoC2DwQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-AasmXAgd6XfGx_wd4knyBYjCA2OA_7_8AKuBAFJurkQxhS_r9NvDbJxAWYdBnGp-ruelTz_biIPgCjBa2ZKgiMx1wW98pdVHRdGKDIX4hyE&usqp=CAc" alt="bag of raw broccoli" width= "100" length= "100"></a>
+    
+    <li> Carrots <br>
+    <a href="https://www.target.com/p/baby-cut-carrots-1lb-good-38-gather-8482/-/A-54556735?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108264775&CPNG=PLA_Produce%2BFloral_Priority%2BShopping_LocalProduce%2BFloral_Ecomm_Food_Bev&adgroup=Produce%2BFloral_Good%26Gather&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-976785161220&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEsAKrIM0lwSzjCZBoZETlVsyLvFXyS21Q8W5EjmUMljXG2BvyScGxhoCTQYQAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_abaa4c53-5fd7-4a83-8275-e21fa71e5e16?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" bag of baby carrots" width= "100" length= "100"></a>
+    
+    <li> Tomatoes <br>
+    <a href="https://www.target.com/p/roma-tomatoes-16oz-good-38-gather-8482-packaging-may-vary/-/A-82667380?ref=tgt_adv_xsp&AFID=google&fndsrc=tgtao&DFA=71700000108139145&CPNG=PLA_Produce%2BFloral%2BShopping_Local%7CProduce%2BFloral_Ecomm_Food_Bev&adgroup=SC_Produce%2BFloral&LID=700000001170770pgs&LNM=PRODUCT_GROUP&network=g&device=c&location=9007218&targetid=pla-510527969963&gad_source=1&gclid=CjwKCAjw15eqBhBZEiwAbDomEndNAFnkmOIxzEG-iV7xVWPts5_zcD20-FkqiAkXXMHMcfMLcrsFDxoCHW0QAvD_BwE&gclsrc=aw.ds">
+    <img src="https://target.scene7.com/is/image/Target/GUEST_1b8a6074-9499-4e25-8bf7-9b0c81a564b2?wid=1200&hei=1200&qlt=80&fmt=pjpeg" alt=" bag of tomatoes" width= "100" length= "100"></a>
+</ul>
+</body>
+</html>
